@@ -1,5 +1,5 @@
 # Actions-OpenWrt for P3TERX
 
-## Usage
+## 感谢P3TERX大佬的教程
 
-[P3TERX大佬的Github地址](https://github.com/P3TERX/Actions-OpenWrt) 
+[P3TERX的Github地址](https://github.com/P3TERX/Actions-OpenWrt) 
